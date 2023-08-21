@@ -1,5 +1,5 @@
 
-# Data Science project
+# Data Science projects
 
 | Title | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
